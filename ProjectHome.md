@@ -1,0 +1,1 @@
+The Game will be a text based adventure game allowing the user to explore the vastness of space and interact with many different civilizations.
